@@ -52,7 +52,7 @@ Mating connectors are available in a variety of options and colors.  All connect
 | AUTK-16            | Crimp tool for size 16 AT pins/sockets        |
 ## Design Files
 ---
-TTW design files are available in this repository if you wish to modify them to better suit your needs.  These boards were drafted in KiCAD.  A custom footprint was drawn to accommodate the AT connector in two different installation positions.  These positions are dependent on what the polarity is of the sample the TTW is being attached to.  See the pinout section below for more information. This footprint can be imported into your KiCAD library if you wish to modify it or use it for your own custom TTW boards.  These positions are dependent on what the polarity of the sample the TTW is being attached to is.
+TTW design files are available in this repository if you wish to modify them to better suit your needs.  These boards were drafted in KiCAD.  A custom footprint was drawn to accommodate the AT connector in two different installation positions.  These positions are dependent on what the polarity is of the sample the TTW is being attached to.  See the pinout section below for more information. This footprint can be imported into your KiCAD library if you wish to modify it or use it for your own custom TTW boards.
 ## Use of TTWs
 ---
 
