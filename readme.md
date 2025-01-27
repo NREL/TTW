@@ -56,6 +56,7 @@ TTW design files are available in this repository if you wish to modify them to 
 ## Use of TTWs
 ---
 
-
+Updated 2025 NREL
+Reference: SWR-25-02
 
 
