@@ -47,7 +47,7 @@ Mating connectors are available in a variety of options and colors.  All connect
 | AT06-4S            | Amphenol 4 pin AT plug housing                |
 | AW4S               | AT plug retention wedge                       |
 | AT62-209-16141     | AT socket - 14AWG - Nickel Plated             |
-| ==AT62-201-16141== | ==AT socket - 16AWG - 20AWG - Nickel plated== |
+| AT62-201-16141     | AT socket - 16AWG - 20AWG - Nickel plated     |
 | AT62-201-16141-22  | AT socket - 22AWG - 24AWG - Nickel plated     |
 | AUTK-16            | Crimp tool for size 16 AT pins/sockets        |
 ## Design Files
